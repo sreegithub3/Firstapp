@@ -8,6 +8,7 @@ public class Jignaasa {
 	a.printstar(10);
      System.out.println("Hari Sarvottamma.. Vaayu Jivottamma...");
      a.printline(10);
+     a.printline();
   
 	}
 

@@ -24,5 +24,16 @@ public class deco {
 		}
 			System.out.println(s);
 	}
+	
+	public void printline()
+	{
+		String s;
+		s = "";
+		for(int i = 0; i<= 24; i++)
+		{
+			s = s + "-";
+		}
+			System.out.println(s);
+	}
 }
 

@@ -4,4 +4,10 @@
   <artifactId>Myproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <dependency>
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-compiler-plugin</artifactId>
+  <version>3.6.2</version>
+  <type>maven-plugin</type>
+</dependency>
 </project>
